@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Song Lyrics API</string>
+    <string name="facebook_application_id" translatable="false">409076013114613</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb409076013114613</string>
+    <string name="twitter_consumer_key" translatable="false">P2by3B1KgLXgen5wZvQ7Xedt5</string>
+    <string name="twitter_consumer_secret" translatable="false">5Lyf4SQnTRBsc7C20xBmdZ2sncLgFC44FxK820Gop0MuVucYSN</string>
+</resources>

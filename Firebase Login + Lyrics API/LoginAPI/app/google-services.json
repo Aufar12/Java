@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "839865382086",
+    "firebase_url": "https://teslogin-e9a3d.firebaseio.com",
+    "project_id": "teslogin-e9a3d",
+    "storage_bucket": "teslogin-e9a3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839865382086:android:b6197df2391e1a25eb93c7",
+        "android_client_info": {
+          "package_name": "com.example.loginapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839865382086-69fbaa0mio8jblqc7vo1nvr91ltstc89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginapi",
+            "certificate_hash": "214506c4d662d772a783f40ba3ec2530fb29a28f"
+          }
+        },
+        {
+          "client_id": "839865382086-8qj7oijjj76rslq997apfn0edt8bqqjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginapi",
+            "certificate_hash": "a76f3afd008eaf8d4a363a9f0b4d33beb97b7feb"
+          }
+        },
+        {
+          "client_id": "839865382086-h7od4pc66mbe1lgk4c08b6uk5c7hmtp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtG3_7kX4eRbLXAunmaGJXhhs2BZkFuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839865382086-h7od4pc66mbe1lgk4c08b6uk5c7hmtp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839865382086:android:5aeb9d87c4fe82c8eb93c7",
+        "android_client_info": {
+          "package_name": "com.example.teslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839865382086-2l8ms7ql3jc88tk56u83quhvs28egqgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teslogin",
+            "certificate_hash": "a76f3afd008eaf8d4a363a9f0b4d33beb97b7feb"
+          }
+        },
+        {
+          "client_id": "839865382086-h7od4pc66mbe1lgk4c08b6uk5c7hmtp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtG3_7kX4eRbLXAunmaGJXhhs2BZkFuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839865382086-h7od4pc66mbe1lgk4c08b6uk5c7hmtp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
